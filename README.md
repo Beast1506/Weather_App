@@ -5,7 +5,7 @@
 
 This is a simple web application built with Streamlit for displaying current weather information and making predictions for the next 3 days based on historical weather data.
 
-**(https://weatherappforecast.streamlit.app/)**
+**https://weatherappforecast.streamlit.app/**
 
 ## Features
 
@@ -25,8 +25,8 @@ This is a simple web application built with Streamlit for displaying current wea
 
 ## How to Use
 
-1.  Clone this repository: `git clone [Your Repository Link]`
-2.  Navigate to the project directory: `cd [Your Project Directory]`
+1.  Clone this repository: `git clone https://github.com/Beast1506/Weather_App.git`
+2.  Navigate to the project directory: `cd Weather_App`
 3.  Create a virtual environment (recommended): `python -m venv venv`
 4.  Activate the virtual environment:
     * On Windows: `venv\Scripts\activate`
