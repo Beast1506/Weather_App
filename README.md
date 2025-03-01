@@ -52,4 +52,4 @@ Feel free to contribute or provide feedback to improve the app!
 
 ## License
 
-[Add your license information here, if applicable.]
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
